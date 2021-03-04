@@ -1,0 +1,40 @@
+.image-header {
+  display: flex;
+  flex-direction: row;
+  margin-right: 50%;
+  justify-content: center;
+  background-color: red;
+}
+.logo-image {
+  max-height: 70px;
+  width: 100px;
+  height: auto;
+}
+
+.header-title {
+  font-size: 10px;
+}
+
+.App-header {
+  /* background-color: #fefcff; */
+  background-color: white;
+  margin-top: 40px;
+  min-height: 25vh;
+  font-size: 19px;
+  font-family: sans-serif;
+  color: #262626;
+  margin-bottom: -120px;
+  flex-wrap: wrap;
+}
+
+.header-box {
+  display: flex;
+  flex-direction: row;
+  /* align-content: center; */
+}
+
+.header-words {
+  justify-content: flex-end;
+  margin-right: 50px;
+  font-weight: bold;
+}

@@ -1,0 +1,41 @@
+.body-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.body-word {
+  font-family: poppins;
+  font-size: 65px;
+  font-weight: bold;
+}
+
+.image-size {
+  width: 200px;
+  height: auto;
+  size: contain;
+}
+
+.body-page {
+  margin-top: 3px;
+  display: flex;
+  justify-content: center;
+  /* justify-items: center; */
+  padding: 20px;
+}
+
+.body-info {
+  /* background-color: yellow; */
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  margin-left: 0px;
+  margin-top: 2px;
+}
+
+.body-paragraph {
+  display: flex;
+  background-color: white;
+  flex-wrap: wrap;
+}
