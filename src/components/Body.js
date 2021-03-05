@@ -5,7 +5,7 @@ function Body() {
     return (
         <div>
             <div className="body-title">
-          <h1 className="body-word" >What we do</h1>
+          <h1 className="body-word" >What We Do</h1>
         </div>
 
       <div className="body-page">

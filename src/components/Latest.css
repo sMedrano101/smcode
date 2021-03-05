@@ -1,0 +1,11 @@
+h1 {
+  font-size: 65px;
+  font-weight: bold;
+  align-items: center;
+  font-family: poppins;
+}
+
+.title {
+  text-align: center;
+  margin-top: 24px;
+}

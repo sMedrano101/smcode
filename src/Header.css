@@ -26,15 +26,3 @@
   margin-bottom: -120px;
   flex-wrap: wrap;
 }
-
-.header-box {
-  display: flex;
-  flex-direction: row;
-  /* align-content: center; */
-}
-
-.header-words {
-  justify-content: flex-end;
-  margin-right: 50px;
-  font-weight: bold;
-}
