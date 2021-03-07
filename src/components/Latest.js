@@ -10,7 +10,7 @@ function Latest() {
 </div>
            <CardDeck>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="images/livehappytravels.jpg" />
     <Card.Body>
       <Card.Title>Live Happy Travels</Card.Title>
       <Card.Text>
@@ -23,9 +23,9 @@ function Latest() {
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="images/retro-store.png" />
     <Card.Body>
-      <Card.Title>Card title</Card.Title>
+      <Card.Title>Retro Online Store</Card.Title>
       <Card.Text>
         This card has supporting text below as a natural lead-in to additional
         content.{' '}
